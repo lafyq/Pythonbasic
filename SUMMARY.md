@@ -1,9 +1,9 @@
 # Summary
 
 * [Python 基础课程安排](README.md)
-  * [01_认识 Python](pythonbasic/01_认识 Python.md)
-  * [02_第一个 Python 程序](pythonbasic/02_第一个 Python 程序.md)
-  * [03_PyCharm 的初始设置（知道）](pythonbasic/03_PyCharm 的初始设置（知道）.md)
+  * [01_认识 Python](pythonbasic/01_认识Python.md)
+  * [02_第一个 Python 程序](pythonbasic/02_第一个Python程序.md)
+  * [03_PyCharm 的初始设置（知道）](pythonbasic/03_PyCharm的初始设置（知道）.md)
   * [04_多文件项目的演练](pythonbasic/04_多文件项目的演练.md)
   * [05_注释](pythonbasic/05_注释.md)
   * [06_算数运算符](pythonbasic/06_算数运算符.md)
@@ -15,7 +15,7 @@
   * [12_循环](pythonbasic/12_循环.md)
   * [13_函数基础](pythonbasic/13_函数基础.md)
   * [14_高级变量类型](pythonbasic/14_高级变量类型.md)
-  * [15_综合应用 —— 名片管理系统](pythonbasic/15_综合应用 —— 名片管理系统.md)
+  * [15_综合应用 —— 名片管理系统](pythonbasic/15_综合应用——名片管理系统.md)
   * [16_变量进阶（理解）](pythonbasic/16_变量进阶（理解）.md)
   * [17_函数进阶](pythonbasic/17_函数进阶.md)
 
